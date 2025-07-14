@@ -1,0 +1,3 @@
+Kulkas|kulkas gacor|2025|23942|424|2|2
+Laptop|Macbook Pro 2014|2025|400000|null|Intel i7|2349823403
+Tablet|Samsung a9|2025|230000|Android
