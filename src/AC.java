@@ -14,10 +14,10 @@ public class AC extends ElektronikRumahTangga {
 
 
     @Override
-    public void inputData(Scanner sc) {
-        super.inputData(sc);
+    public void inputData(Scanner input) {
+        super.inputData(input);
         System.out.print("Tipe AC (Split/Portable/Cassette): ");
-        this.tipeAC = sc.nextLine();
+        this.tipeAC = input.nextLine();
     }
 
     @Override
