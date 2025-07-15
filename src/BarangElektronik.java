@@ -10,6 +10,7 @@ public class BarangElektronik {
                 case "AC" -> new AC(parts);
                 case "Laptop" -> new Laptop(parts);
                 case "HP" -> new HP(parts);
+                case "Tablet" -> new Tablet(parts);
                 default -> null;
             };
         } catch (Exception e) {
